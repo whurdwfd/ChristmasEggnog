@@ -12,7 +12,6 @@ Our Christmas Eggnog Recipe. We've been perfecting this recipe since 2009. This 
 * 1/2 t. Cloves (ground)
 * 1 t. Vanilla
 * 1 T Grated Chocolate
-* 
 
 ### Instructions
 * Beat the **egg yolks** with a mixer, slowly adding **half the sugar**. Beat until creamy.
