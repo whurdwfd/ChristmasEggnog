@@ -1,5 +1,5 @@
-# ChristmasEggnog
-Our Christmas Eggnog Recipe. We've been perfecting this egnogg recipe since 2009 and it's been pretty stable since 2011 with only uprades to the alcohol quality and refinements of the preparation process since then.
+# Wesley and Rachel's Christmas Eggnog
+We've been perfecting this egnogg recipe since 2009 and it's been pretty stable since 2011 with only uprades to the alcohol quality and refinements of the preparation process since then.
 
 ### Ingredients
 * 4 Eggs
