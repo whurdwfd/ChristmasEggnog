@@ -7,8 +7,8 @@ We've been perfecting this egnogg recipe since 2009 and it's been pretty stable 
 * 3/4 Cups Sugar
 * 2 Cups Whiskey
 * 1/2 Cups White Rum
-* 3/4 Cups White Rum
-* 1/4 Cup Vodka
+* 3/4 Cups Vodka
+* 1/2 Cups Tequila
 * 1 t. Nutmeg
 * 1 t. Saigon Cinnamon
 * 1/2 t. Cloves (ground)
