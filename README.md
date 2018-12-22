@@ -6,7 +6,7 @@ We've been perfecting this egnogg recipe since 2007 and it's been pretty stable 
 High Octane                   |Medium Octane         |Low Octane
 ---                           |---                   |---
 1 Cups Milk                   |2 Cups Milk           |2 Cups Milk
-2 Cups Whiskey                |1 1/2 Cups Whiskey    |1/2 Cups Whiskey
+2 1/2 Cups Whiskey            |1 1/2 Cups Whiskey    |1/2 Cups Whiskey
 1/2 Cups White Rum            |1/2 Cups White Rum    |1/4 Cups White Rum
 3/4 Cups Vodka                |3/4 Cups Vodka        |1/8 Cups Vodka
 1/2 Cups Tequila              |1/4 Cups Tequila      |1/8 Cups Tequila
