@@ -23,7 +23,7 @@ We've been perfecting this egnogg recipe since 2007 and it's been pretty stable 
 * Refridgerate till ready to serve.
 
 ### Other Notes
-Often times we mix up the batch and do a taste test to see how it is. We might add whiskey or tequila for tha special back of the throat bite or cut with a little milk if it's coming on too string. Mixing in sugar and/or vanilla can also impact the flavor.
+Often times we mix up the batch and do a taste test to see how it is. We might add whiskey or tequila for tha special back of the throat bite or cut with a little milk if it's coming on too strong. Mixing in sugar and/or vanilla can also impact the flavor.
 
 One batch makes aprox 1.75 liters.
 
