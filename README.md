@@ -2,17 +2,21 @@
 We've been perfecting this egnogg recipe since 2007 and it's been pretty stable since 2011 with only uprades to the alcohol quality and refinements of the preparation process since then.
 
 ### Ingredients
-* 4 Eggs
-* 2 Cups Whipping Cream
-* 3/4 Cups Sugar
-* 2 Cups Whiskey
-* 1/2 Cups White Rum
-* 3/4 Cups Vodka
-* 1/2 Cups Tequila
-* 1 t. Nutmeg
-* 1 t. Saigon Cinnamon
-* 1/2 t. Cloves (ground)
-* 1 t. Bourbon Vanilla
+
+High Octane                   |Medium Octane         |Low Octane
+---                           |---                   |---
+1 Cups Milk                   |2 Cups Milk           |2 Cups Milk
+2 Cups Whiskey                |1 1/2 Cups Whiskey    |1/2 Cups Whiskey
+1/2 Cups White Rum            |1/2 Cups White Rum    |1/4 Cups White Rum
+3/4 Cups Vodka                |3/4 Cups Vodka        |1/8 Cups Vodka
+1/2 Cups Tequila              |1/4 Cups Tequila      |1/8 Cups Tequila
+2 Cups Whipping Cream         |2 Cups Whipping Cream |2 Cups Whipping Cream
+3/4 Cups Sugar                |3/4 Cups Sugar        |3/4 Cups Sugar
+4 Eggs                        |4 Eggs                |4 Eggs                          
+1 t. Nutmeg                   |1 t. Nutmeg           |1 t. Nutmeg
+1 t. Saigon Cinnamon          |1 t. Saigon Cinnamon  |1 t. Saigon Cinnamon
+1/2 t. Cloves (ground)        |1/2 t. Cloves (ground)|1/2 t. Cloves (ground)
+1 t. Bourbon Vanilla          |1 t. Bourbon Vanilla  |1 t. Bourbon Vanilla
 
 ### Instructions
 * Beat the **egg yolks** with a mixer, slowly adding **all the sugar**. Beat until creamy and light yellow.
